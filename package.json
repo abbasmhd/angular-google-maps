@@ -59,13 +59,13 @@
   },
   "devDependencies": {
     "@angular/animations": "^8.2.1",
-    "@angular/common": "^8.2.1",
-    "@angular/compiler": "^8.2.1",
+    "@angular/common": "^20.3.34",
+    "@angular/compiler": "^20.3.27",
     "@angular/compiler-cli": "^8.2.1",
-    "@angular/core": "^8.2.1",
+    "@angular/core": "^20.3.28",
     "@angular/platform-browser": "^8.2.1",
     "@angular/platform-browser-dynamic": "^8.2.1",
-    "@angular/platform-server": "^8.2.1",
+    "@angular/platform-server": "^20.3.33",
     "@compodoc/compodoc": "^1.1.10",
     "@types/jest": "^23.0.0",
     "clang-format": "1.2.3",
@@ -98,6 +98,6 @@
     }
   },
   "dependencies": {
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.22"
   }
 }
